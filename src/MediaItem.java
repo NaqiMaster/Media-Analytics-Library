@@ -4,4 +4,5 @@ public interface MediaItem {
     String getCreator();
     int getLength();
     double getRating();
+    
 }
